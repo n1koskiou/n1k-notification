@@ -75,7 +75,10 @@ end, false)
 ---
 
 ## Preview
-![Notification Preview](https://imgur.com/VahYrgS)
+<p align="center">
+  <img src="images/https://imgur.com/VahYrgS" alt="Notification Preview" width="500"/>
+</p>
+
 
 
 

@@ -77,13 +77,5 @@ end, false)
 ## Preview
 ![Notification Preview](preview.png)
 
----
-
-## License
-
-© 2025 N1K. All rights reserved.  
-You may use and modify this resource for your FiveM server only. Redistribution or selling is prohibited without permission.
-
-
 
 
